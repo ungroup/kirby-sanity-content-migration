@@ -1,0 +1,5 @@
+title: Default File
+
+fields:
+  caption:
+    type: text

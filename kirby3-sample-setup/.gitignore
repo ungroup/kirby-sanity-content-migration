@@ -1,0 +1,15 @@
+Icon
+.DS_Store
+/media/*
+!/media/index.html
+.lock
+*.sublime-workspace
+/.vscode
+/.idea
+/site/cache/*
+!/site/cache/index.html
+/site/accounts/*
+!/site/accounts/index.html
+/site/sessions/*
+!/site/sessions/index.html
+/site/config/.license

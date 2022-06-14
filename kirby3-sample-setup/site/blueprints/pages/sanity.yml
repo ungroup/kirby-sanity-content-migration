@@ -1,0 +1,12 @@
+title: Sanity
+
+options:
+  status: false
+  duplicate: false
+  url: false
+
+fields:
+  info:
+    type: info
+    label: Info
+    text: This will just generate a custom JSON structure

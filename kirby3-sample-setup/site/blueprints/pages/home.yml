@@ -1,0 +1,9 @@
+title: Projects Page
+
+columns:
+  sidebar:
+    width: 1/1
+    sections:
+      pages:
+        type: pages
+        template: default
